@@ -58,14 +58,14 @@
     {
         "id": 9,
         "name": "Zapatillas Nike Cordones",
-        "image": "img/8-nike-cordones.jpg",
+        "image": "img/9-nike-cordones.jpg",
         "extraInfo": "Moderno Diseño con cordones",
         "price": 23.80
       },
       {
         "id": 10,
         "name": "Zapatillas Nike Color Verde",
-        "image": "img/8-nike-verde.jpg",
+        "image": "img/10-nike-verde.jpg",
         "extraInfo": "Diseño degradado color verde",
         "price": 23.80
       }
