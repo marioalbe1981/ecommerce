@@ -1,0 +1,72 @@
+[
+    {
+      "id": 1,
+      "name": "Zapatillas Nike color Negras",
+      "image": "img/1-nike-negras.jpg",
+      "extraInfo": "Suela de goma",
+      "price": 15.20
+    },
+    {
+      "id": 2,
+      "name": "Zapatillas Nike color Blancas",
+      "image": "img/2-nike-blancas.jpg",
+      "extraInfo": "Suela de goma flexible",
+      "price": 10.40
+    },
+    {
+      "id": 3,
+      "name": "Zapatillas Nike color Gris",
+      "image": "img/3-nike-grises.jpg",
+      "extraInfo": "Cordones extra duradero",
+      "price": 11.55
+    },
+    {
+      "id": 4,
+      "name": "Zapatillas Nike Broche",
+      "image": "img/4-nike-broche.jpg",
+      "extraInfo": "con abrojos incorporados color gris",
+      "price": 17.99
+    },
+    {
+      "id": 5,
+      "name": "Zapatillas Nike Broche negras",
+      "image": "img/5-nike-broche-negras.jpg",
+      "extraInfo": "abrojos incorporados color negros",
+      "price": 16.65
+    },
+    {
+      "id": 6,
+      "name": "Zapatillas Nike color Marrón",
+      "image": "img/6-nike-marron.jpg",
+      "extraInfo": "Cordones Marrón claro",
+      "price": 12.70
+    },
+    {
+      "id": 7,
+      "name": "Zapatillas Nike con tiras",
+      "image": "img/7-nike-tiras.jpg",
+      "extraInfo": "Diseño con tiras de color Marrón",
+      "price": 20.42
+    },
+    {
+      "id": 8,
+      "name": "Zapatillas Nike cordon Elastico",
+      "image": "img/8-nike-elasticas.jpg",
+      "extraInfo": "Diseño elastico de color Negro",
+      "price": 21.50
+    },
+    {
+        "id": 9,
+        "name": "Zapatillas Nike Cordones",
+        "image": "img/8-nike-cordones.jpg",
+        "extraInfo": "Moderno Diseño con cordones",
+        "price": 23.80
+      },
+      {
+        "id": 10,
+        "name": "Zapatillas Nike Color Verde",
+        "image": "img/8-nike-verde.jpg",
+        "extraInfo": "Diseño degradado color verde",
+        "price": 23.80
+      }
+  ]
